@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Flipperowski
 - 👀 I’m interested in games
-- 🌱 I’m currently learning C++, HTML, CSS, JS, UE4
+- 🌱 I’m currently learning C++, JS, UE4
